@@ -1,5 +1,5 @@
 # Python-Assignment-Solutions
 
 
-* Explore "the link" for full assignment<br>
-https://github.com/psrana/Assignment-Python
+* Explore <a href="https://github.com/psrana/Assignment-Python">the link</a> for full assignment<br>
+
